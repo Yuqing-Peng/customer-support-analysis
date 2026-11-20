@@ -1,0 +1,9 @@
+# Stuff git should ignore: your virtual env, caches, and generated data/outputs.
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+outputs/
+.idea/
+.vscode/
